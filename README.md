@@ -9,9 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=kaikyCoracini&label=Visualizações&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   &nbsp;
- <a href="https://wakatime.com/@kaikyCoracini" target="_blank">
-  <img src="https://wakatime.com/@kaikyCoracini.svg" alt="Wakatime Badge" />
-</a>
+  <a href="https://wakatime.com/@f00bceb5-4ced-4d30-a8e2-526a2319979a">
+    <img src="https://wakatime.com/badge/user/f00bceb5-4ced-4d30-a8e2-526a2319979a.svg" alt="Total time coded since Oct 31 2024" />
+  </a>     
+  </a>
 </p>
 
 ---
