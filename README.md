@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/KaikyCoracini">
-    <img src="https://komarev.com/ghpvc/?username=KaikyCoracini&label=Visualizações&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kaikyCoracini&label=Visualizações&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   &nbsp;
-  <a href="https://wakatime.com/@b53541dd-3a42-4f8b-a796-4f9402ce93c5" target="_blank">
-    <img src="https://wakatime.com/badge/user/b53541dd-3a42-4f8b-a796-4f9402ce93c5.svg" alt="Wakatime Badge" />
-  </a>
+ <a href="https://wakatime.com/@kaikyCoracini" target="_blank">
+  <img src="https://wakatime.com/@kaikyCoracini.svg" alt="Wakatime Badge" />
+</a>
 </p>
 
 ---
