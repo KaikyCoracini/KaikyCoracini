@@ -69,11 +69,11 @@
 ## 📫 Entre em contato
 
 <p align="center">
-  <a href="mailto:kaikycoracini@gmail.com">
+  <a href="mailto:coracinikaiky@gmail.com">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kaikycoracini/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaikyCoracini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
