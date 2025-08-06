@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kaikyCoracini/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaiky-coracini-5b54b1297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
