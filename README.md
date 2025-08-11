@@ -22,7 +22,6 @@
 - 💻 Desenvolvedor full stack  
 - 📚 Estudando constantemente novas tecnologias e boas práticas de desenvolvimento  
 - 🏢 Atualmente trabalhando como desenvolvedor na Fundimisa  
-- 🌱 Aprimorando meus conhecimentos em Backend com Go, GraphQL e PostgreSQL  
 - 🎯 Objetivo: Aprender cada vez mais sobre o mundo da tecnologia  
 
 ---
